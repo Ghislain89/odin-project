@@ -5,6 +5,9 @@ node_modules
 .pnp
 .pnp.js
 
+# IDE Config
+.vscode
+
 # Local env files
 .env
 .env.local
@@ -36,4 +39,3 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
-.vscode/
